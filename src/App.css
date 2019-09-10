@@ -22,8 +22,7 @@
 body {
   font-family: 'Open Sans', sans-serif !important;
   background: var(--mainGrey) !important;
-  /* color: var(--mainBlack); */
-  color: #fff;
+  color: var(--mainBlack);
 }
 
 .navbar .nav-link {
@@ -31,6 +30,7 @@ body {
   text-transform: uppercase;
   padding-left: 1rem !important;
   padding-right: 1rem !important;
+  color: #fff;
 }
 
 .navbar .nav-item.active {

@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/1-1.813252df.jpeg"
   },
   {
-    "revision": "0fe7ec465cdad7c293d5",
-    "url": "/static/css/main.f1f15437.chunk.css"
+    "revision": "25ed032fb5ef43959216",
+    "url": "/static/css/main.f5d5ace5.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/Shoe-Carnival-1080x720.492f1aa3.jpg"
   },
   {
-    "revision": "0fe7ec465cdad7c293d5",
-    "url": "/static/js/main.1c3822fa.chunk.js"
+    "revision": "25ed032fb5ef43959216",
+    "url": "/static/js/main.67b78f51.chunk.js"
   },
   {
     "revision": "a791bb0a9605b45c7205ff8fdae6686d",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/static/css/2.56cf5b79.chunk.css"
   },
   {
-    "revision": "4f1ec8a0a4be5e4c3253d984651438d9",
+    "revision": "95bc3b71d415783e55c926ea06661b67",
     "url": "/index.html"
   }
 ];
