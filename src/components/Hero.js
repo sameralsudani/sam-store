@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import mainBcg from '../images/mainBcg.jpeg';
+import mainBcg from '../images/1-1.jpeg';
 
 export default function Hero({ img, title, max, children }) {
   return (
@@ -21,7 +21,7 @@ const HeroWrapper = styled.div`
   min-height: ${props => (props.max ? '100vh' : '60vh')};
   color: var(--mainWhite);
   background: linear-gradient(var(--primaryRGBA), var(--primaryRGBA)),
-    url(${props => props.img}) center/cover no-repeat;
+    url(${props => props.img}) center / cover no-repeat;
   .title {
     padding-top: 2rem;
     font-size: 3.5rem;

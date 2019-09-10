@@ -1,11 +1,17 @@
 import React from 'react';
-import Header from '../components/Header';
+import Hero from '../components/Hero';
+import { Link } from 'react-router-dom';
+
 import Services from '../components/HomePage/Services';
 import Featured from '../components/HomePage/Featured';
 export default function HomePage() {
   return (
     <>
-      <Header />
+      <Hero title="awesome shoes" max="true">
+        <Link to="/products" className="main-link" style={{ margin: '2rem' }}>
+          our products
+        </Link>
+      </Hero>
 
       <Services />
       <Featured />
