@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/1-1.813252df.jpeg"
   },
   {
-    "revision": "25ed032fb5ef43959216",
-    "url": "/static/css/main.f5d5ace5.chunk.css"
+    "revision": "4205495a834c739452fb",
+    "url": "/static/css/main.b8d498bf.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -24,16 +24,16 @@ self.__precacheManifest = [
     "url": "/static/media/Shoe-Carnival-1080x720.492f1aa3.jpg"
   },
   {
-    "revision": "25ed032fb5ef43959216",
-    "url": "/static/js/main.67b78f51.chunk.js"
+    "revision": "4205495a834c739452fb",
+    "url": "/static/js/main.7aada4b3.chunk.js"
   },
   {
-    "revision": "a791bb0a9605b45c7205ff8fdae6686d",
-    "url": "/static/media/action-1867700_1280.a791bb0a.jpg"
+    "revision": "9dafbf4206b83e5bd22c50725d1450f0",
+    "url": "/static/media/someone-figured-out-the-purpose-of-the-extra-shoelace-hole-on-your-running-shoes--and-it-will-blow-your-mind.9dafbf42.jpg"
   },
   {
-    "revision": "945afb997e0731b038ed58fadacfeb3f",
-    "url": "/static/media/contactBcg.945afb99.jpeg"
+    "revision": "7d073768139d79621beeadc70b73c0e1",
+    "url": "/static/media/contact_us.1200x627.7d073768.jpg"
   },
   {
     "revision": "9675841294261b773267d557f531a8ff",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/static/css/2.56cf5b79.chunk.css"
   },
   {
-    "revision": "95bc3b71d415783e55c926ea06661b67",
+    "revision": "39250a3f1f73a9ec5e8cfcd20fa46995",
     "url": "/index.html"
   }
 ];
