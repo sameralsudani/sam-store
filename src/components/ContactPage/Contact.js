@@ -17,7 +17,7 @@ export default function Contact() {
                 type="text"
                 name="firstName"
                 className="form-control"
-                placeholder="john smith"
+                placeholder="sam sudani"
               />
             </div>
             {/* email */}
@@ -35,7 +35,7 @@ export default function Contact() {
                 type="text"
                 name="subject"
                 className="form-control"
-                placeholder="important!!!!"
+                placeholder="important!"
               />
             </div>
             {/* message */}
@@ -44,7 +44,7 @@ export default function Contact() {
                 name="message"
                 className="form-control"
                 rows="10"
-                placeholder="hello there buddy"
+                placeholder="hello there"
               />
             </div>
             {/* submit */}
